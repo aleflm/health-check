@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "@vitest/coverage-istanbul": "^3.1.4",
+    "tsx": "^4.20.6",
     "vitest": "^3.1.4"
   },
   "engines": {
