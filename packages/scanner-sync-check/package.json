@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "@rosen-bridge/health-check": "^8.0.0",
+    "@rosen-clients/rate-limited-axios": "^1.1.0",
     "date-fns": "^4.1.0",
     "lodash-es": "^4.17.21"
   },
